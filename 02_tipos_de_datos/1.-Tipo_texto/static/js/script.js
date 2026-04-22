@@ -5,7 +5,7 @@ Datos: Tipo texto(String)
 Podemos unir texto y variables
 */
 
-//Concatenación: unir texto y/o variables.
+// Concatenación: unir texto y/o variables.
 const nombre = "Matias";
 const apellido = "Santelices";
 //Unimos ambas constantes con un texto extra.
