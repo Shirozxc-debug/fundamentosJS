@@ -1,0 +1,24 @@
+
+.row{
+    background-color: rgb(233, 246, 237);
+    text-align: center;
+    width: 10%;
+    margin: 15px auto;
+    padding: 15px;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px grey;
+}
+
+button{
+    width: 120px;
+    height: 40px;
+    margin-top: 10px;
+    cursor: pointer;
+    border: 1px solid grey;
+}
+
+h3{
+    margin: 0;
+    font-family: sans-serif;
+    color: grey;
+}
