@@ -104,15 +104,6 @@ function ejercicio18() {
 // Ejercicio 19: Clasificación de desempeño con más niveles
 // Crear una función que almacene el nombre de un estudiante y su promedio final. Luego:
 
-
-// Convertir el nombre a mayúsculas
-// Clasificar el rendimiento según:
-// ≥ 6.5 → Sobresaliente
-// ≥ 6.0 → Muy buen rendimiento --> else if
-// ≥ 5.0 → Buen rendimiento --> else if
-// ≥ 4.0 → Suficiente --> else if
-// < 4.0 → Insuficiente --> else
-
 function ejercicio19() {
     let estudiante = "Manuel Pérez";
     let no1 = 7.0;
@@ -144,6 +135,14 @@ function ejercicio19() {
             \nTiene: ${nombre.length} carácteres`)
     }
 }
+
+// Convertir el nombre a mayúsculas
+// Clasificar el rendimiento según:
+// ≥ 6.5 → Sobresaliente
+// ≥ 6.0 → Muy buen rendimiento --> else if
+// ≥ 5.0 → Buen rendimiento --> else if
+// ≥ 4.0 → Suficiente --> else if
+// < 4.0 → Insuficiente --> else
 
 // Además:
 
